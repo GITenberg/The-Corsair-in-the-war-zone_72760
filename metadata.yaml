@@ -1,0 +1,36 @@
+_repo: The-Corsair-in-the-war-zone_72760
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Paine, Ralph Delahaye
+    alias: Paine, Ralph D. (Ralph Delahaye)
+    birthdate: 1871
+    deathdate: 1925
+    gutenberg_agent_id: '1113'
+    url: http://www.gutenberg.org/2009/agents/1113
+    wikipedia: https://en.wikipedia.org/wiki/Ralph_Delahaye_Paine
+description: ''
+gutenberg_issued: '2024-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72760'
+  lccn: '20014468'
+language: en
+pgterms:marc904: https://archive.org/details/corsairinwarzone00painrich
+pgterms:marc905: 20220219090110paine
+pgterms:marc906: '1920'
+pgterms:marc907: us
+production_note: Bob Taylor, Peter Becker and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aBoston :$bHoughton Mifflin company, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Naval operations'
+- !lcsh 'Corsair (Yacht)'
+- !lcc 'D501'
+- GITenberg
+title: The Corsair in the war zone
+url: http://www.gutenberg.org/ebooks/72760
